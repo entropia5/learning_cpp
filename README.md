@@ -3,12 +3,13 @@ This is the repository for the LinkedIn Learning course `Learning C++`. The full
 
 ![lil-thumbnail-url]
 
-C++ is one of the most powerful and widely used programming languages of all time. It is also one of the oldest programming languages in use today. In this course, learn the basic elements of this object-oriented programming language that moves the world. Instructor Eduardo Corpeño begins with setting up the development environment and introducing the basic elements of object-oriented programming. Eduardo covers data types such as variables, expressions, assignments, constants, and more. He explains structures, classes, pointers, vectors, and so on. After stepping through the control flow process and a variety of useful functions, Eduardo finishes up with detailed information on opening and working with files.
+C++ — один из самых мощных и широко используемых языков программирования всех времен. Кроме того, это один из старейших языков, применяемых и сегодня. В этом курсе вы изучите базовые элементы этого объектно-ориентированного языка программирования, который буквально движет миром.
 
-### Instructor
-Eduardo Corpeño
+Инструктор Эдуардо Корпеньо начнет с настройки среды разработки и введения в основные концепции объектно-ориентированного программирования. Эдуардо рассмотрит такие типы данных, как переменные, выражения, присваивания, константы и многое другое. Он объяснит работу со структурами, классами, указателями, векторами и другими элементами. Пройдя через процессы управления потоком (control flow) и изучив множество полезных функций, Эдуардо завершит курс подробной информацией об открытии файлов и работе с ними.
 
-Electrical Engineer, Computer Programmer, and Teacher for 15+ years
+Инструктор
+
+Эдуардо Корпеньо Инженер-электрик, программист и преподаватель с более чем 15-летним стажем.
 
 
 Check out my other courses on [LinkedIn Learning][URL-instructor-home].

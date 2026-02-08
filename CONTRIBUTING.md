@@ -1,7 +1,7 @@
 
-Contribution Agreement
-======================
 
-This repository does not accept pull requests (PRs). All pull requests will be closed.
+Данный репозиторий не принимает запросы на слияние (Pull Requests — PR). Все такие запросы будут закрыты.
 
-However, if any contributions (through pull requests, issues, feedback or otherwise) are provided, as a contributor, you represent that the code you submit is your original work or that of your employer (in which case you represent you have the right to bind your employer). By submitting code (or otherwise providing feedback), you (and, if applicable, your employer) are licensing the submitted code (and/or feedback) to LinkedIn and the open source community subject to the BSD 2-Clause license.
+Тем не менее, если какие-либо вклады (через запросы на слияние, сообщения об ошибках/issues, обратную связь или иным способом) всё же будут предоставлены, вы, как автор вклада, подтверждаете, что предоставляемый вами код является вашей оригинальной работой или работой вашего работодателя (в этом случае вы подтверждаете, что имеете право действовать от имени своего работодателя).
+
+Отправляя код (или предоставляя обратную связь иным способом), вы (и, если применимо, ваш работодатель) передаете лицензию на отправленный код (и/или обратную связь) компании LinkedIn и сообществу открытого исходного кода (open source) на условиях лицензии BSD 2-Clause.
