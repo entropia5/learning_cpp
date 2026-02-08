@@ -1,6 +1,6 @@
-// Learning C++ 
-// Exercise 00_03
-// Using the exercise files on GitHub, by Eduardo Corpeño 
+
+// Эта программа складывает два числа и выводит результат в консоль.
+// by Eduardo Corpeño 
 
 #include <iostream>
 
