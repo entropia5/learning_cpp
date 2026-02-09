@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/igoryakobchuk/projects/basics_cpp/learning_cpp/src/Ch02/02_10b/CodeDemo'
+relocations:     []
+...
